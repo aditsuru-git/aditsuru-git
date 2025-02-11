@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Interests: Web development, AI/ML, DSA, Game dev.<br>🎯 Goal: Launch a Game Development Studio & Freelancing Agency.</p>
+<p align="left">📚 Interests: Web development, AI/ML, and Game dev.<br>🎯 Goal: Launch a Game Development Studio & Freelancing Agency.</p>
 
 ###
 
