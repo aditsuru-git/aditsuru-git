@@ -35,11 +35,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 0 15px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 0 15px;" />
 </p>
+<h1></h1>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&show_icons=true&locale=en" alt="aditsuru-git" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditsuru-git&" alt="aditsuru-git" /></td>
+  </tr>
+</table>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&show_icons=true&locale=en" alt="aditsuru-git" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditsuru-git&show_icons=true&locale=en&layout=compact" alt="aditsuru-git" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditsuru-git&" alt="aditsuru-git" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditsuru-git&show_icons=true&locale=en&layout=compact" alt="aditsuru-git" /></p>
