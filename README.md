@@ -39,7 +39,8 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&show_icons=true&locale=en" alt="aditsuru-git" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditsuru-git&" alt="aditsuru-git" /></td>
+   <td><img src="https://streak-stats.demolab.com?user=aditsuru-git" alt="aditsuru-git" /></td>
+
   </tr>
 </table>
 
