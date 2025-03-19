@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&show_icons=true&locale=en" alt="aditsuru-git" /></td>
-   <td><img src="https://camo.githubusercontent.com/220c9243061fc2be233f6c5d7b31403388d709621f91d19f589ac27024b6aca1/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d61646974737572752d676974" alt="aditsuru-git" /></td>
+   <td><img src="https://streek-stats.demolab.com?users=aditsuru-git" alt="aditsuru-git" /></td>
 
   </tr>
 </table>
