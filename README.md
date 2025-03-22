@@ -28,26 +28,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin: 0 15px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 0 15px;" />
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 </p>
 <h1></h1>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&show_icons=true&locale=en" alt="aditsuru-git" /></td>
-   <td><img src="https://streek-stats.demolab.com?users=aditsuru-git" alt="aditsuru-git" /></td>
+    <td>
+      
+![aditsuru-git's Stats](https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&count_private=true)
+    </td>
+   <td>
+     
+![aditsuru-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditsuru-git&theme=react&hide_border=true)
+   </td>
 
   </tr>
 </table>
 
-
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditsuru-git&show_icons=true&locale=en&layout=compact" alt="aditsuru-git" />
+  
+  ![aditsuru-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 
