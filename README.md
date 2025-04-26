@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 🤝 I’m looking to collaborate on **exciting Node projects with cool people!**
+- 🤝 I’m looking to collaborate on **exciting Web Dev projects with cool people!**
 
 - 📝 Sharing my dev journey & learnings here: [blogs coming soon]()
 
