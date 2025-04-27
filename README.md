@@ -53,7 +53,7 @@
   ![aditsuru-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact)
 </p>
 
-<hr style="border:0.5px solid #e0e0e0; margin: 30px 0">
+<h1></h1>
 
 <h3 align="center">Contributions</h3>
 
