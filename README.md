@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **exciting Web Dev projects with cool people!**
 
-- 📝 Sharing my dev journey & learnings here: [blogs coming soon]()
+- 📝 Sharing my dev journey & learnings here: [blogs coming soon... 💫]()
 
 - 💬 Ask me about:
 
@@ -53,4 +53,16 @@
   ![aditsuru-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact)
 </p>
 
+<hr style="border:0.5px solid #e0e0e0; margin: 30px 0">
 
+<h3 align="center">Contributions</h3>
+
+<div align="center">
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Aung-myat-min&repo=ProjectX-O&theme=react&hide_border=true)](https://github.com/Aung-myat-min/ProjectX-O)
+
+</div>
+
+<div align="center" style="font-size: 0.9em; color: #666; margin-top: 20px">
+  <i>These are open-source projects I've contributed to ><</i>
+</div>
