@@ -65,7 +65,3 @@
 <div align="center" style="font-size: 0.9em; color: #666; margin-top: 20px">
   <i>These are open-source projects I've contributed to ><</i>
 </div>
-
-<h1></h1>
-
-<img src="https://i.imgur.com/IqXEgIy.png" alt="Footer Banner" width="100%" />
