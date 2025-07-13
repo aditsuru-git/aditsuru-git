@@ -63,5 +63,5 @@
 </div>
 
 <div align="center" style="font-size: 0.9em; color: #666; margin-top: 20px">
-  <i>These are open-source projects I've contributed to ><</i>
+  <i>These are a few open-source projects I've contributed in</i>
 </div>
