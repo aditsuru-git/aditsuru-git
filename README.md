@@ -52,6 +52,7 @@
   ![aditsuru-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact)
 </p>
 
+<!--
 <h1></h1>
 
 <h3 align="center">Contributions</h3>
@@ -65,3 +66,4 @@
 <div align="center" style="font-size: 0.9em; color: #666; margin-top: 20px">
   <i>These are a few open-source projects I've contributed in</i>
 </div>
+-->
