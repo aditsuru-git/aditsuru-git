@@ -44,9 +44,8 @@
 
 <br />
 
-<!-- Top Languages aligned left -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 
