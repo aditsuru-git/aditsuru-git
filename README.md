@@ -39,14 +39,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&count_private=true" align="left" width="48%" />
   <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify?background_color=20232A&border_color=20232A" alt="Spotify Now Playing" align="right" width="48%" />
-  <br clear="both" />
+  <br clear="both" /> <!-- THIS ensures the next row goes below floats -->
 </div>
 
 <br />
 
-<!-- Top Languages centered -->
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<!-- Top Languages aligned left -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 
