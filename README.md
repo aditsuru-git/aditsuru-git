@@ -34,16 +34,24 @@
 </p>
 
 <h1></h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&count_private=true" align="left" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-  <br clear="both" /> 
-</div>
+<table>
+  <tr>
+    <td>
+      
+![aditsuru-git's Stats](https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&count_private=true)
+    </td>
+   <td>
+     
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditsuru-git&theme=react&hide_border=true)](https://git.io/streak-stats)
+   </td>
 
+  </tr>
+</table>
 <br />
 
 <div align="center">
-    <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify?background_color=20232A&border_color=20232A" alt="Spotify Now Playing" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify?background_color=20232A&border_color=20232A" alt="Spotify Now Playing" align="right" witdh="48%" />
 </div>
 
 
