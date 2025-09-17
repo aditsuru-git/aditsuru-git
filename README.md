@@ -5,19 +5,18 @@
 <img align="right" alt="side-image" width="400" src="https://i.imgur.com/tlLZae1.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditsuru-git&label=Profile%20views&color=0e75b6&style=flat" alt="aditsuru-git" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 🤝 I’m looking to collaborate on **exciting Web Dev projects with cool people!**
 
 - 📝 Sharing my dev journey & learnings here: [blogs coming soon... 💫]()
 
 - 💬 Ask me about:
-
-  - 🤖 **AI Agents & LangChain**
-  - 🕹️ **Discord.js Bot Development**
-  - 🚀 **Full-Stack Web Development**
-  - 🎮 **Game Development**
-
+  
+  * 🤖 **AI Agents & Automation (LangChain, Workflows, Deployment)**
+  * 🚀 **Full-Stack Web Development & System Design**
+  * 🎮 **Game Development**
+  * 📋 **Project Management, Leadership & Startups**
 - 📫 Hit me up on Discord: **aditsuru** :)
 - 🎭 **Fun Fact:** My JavaScript runs smoother than my love life. 💔💻
 
