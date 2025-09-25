@@ -17,7 +17,7 @@
   * 🚀 **Full-Stack Web Development & System Design**
   * 🎮 **Game Development**
   * 📋 **Project Management, Leadership & Startups**
-- 📫 Hit me up on Discord: **aditsuru** :)
+
 - 🎭 **Fun Fact:** My JavaScript runs smoother than my love life. 💔💻
 
 <h3 align="left">Connect with me:</h3>
