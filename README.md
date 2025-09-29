@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack, System Design and Rust**
 
-- 🤝 I’m looking to collaborate with **passionate creators just like me!**
+- 🤝 I’m looking to collaborate with **passionate creators like me!**
 
 - 📝 Sharing my journey & learnings here: [blogs coming soon... 💫]()
 
