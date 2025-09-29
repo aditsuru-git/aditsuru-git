@@ -5,7 +5,7 @@
 <img align="right" alt="side-image" width="400" src="./assets/pfp.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditsuru-git&label=Profile%20views&color=0e75b6&style=flat" alt="aditsuru-git" /> </p>
 
-- 🌱 I’m currently learning **Full Stack, System Design and Rust**
+- 🌱 I’m currently learning **Full Stack, System Design & Rust**
 
 - 🤝 I’m looking to collaborate with **passionate creators like me!**
 
