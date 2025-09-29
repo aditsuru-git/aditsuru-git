@@ -5,18 +5,18 @@
 <img align="right" alt="side-image" width="400" src="./assets/pfp.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditsuru-git&label=Profile%20views&color=0e75b6&style=flat" alt="aditsuru-git" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack, System Design and Rust**
 
-- 🤝 I’m looking to collaborate on **exciting Web Dev projects with cool people!**
+- 🤝 I’m looking to collaborate with **passionate creators just like me!**
 
-- 📝 Sharing my dev journey & learnings here: [blogs coming soon... 💫]()
+- 📝 Sharing my journey & learnings here: [blogs coming soon... 💫]()
 
 - 💬 Ask me about:
   
-  * 🤖 **AI Agents & Automation (LangChain, Workflows, Deployment)**
+  * 🤖 **AI Agents & Automation (LangGraph, Scalable Pipelines)**
   * 🚀 **Full-Stack Web Development & System Design**
   * 🎮 **Game Development**
-  * 📋 **Project Management, Leadership & Startups**
+  * 📋 **Product Management, Leadership & Startups**
 
 - 🎭 **Fun Fact:** My JavaScript runs smoother than my love life. 💔💻
 
