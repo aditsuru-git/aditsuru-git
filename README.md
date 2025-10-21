@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi Traveler 👋, I'm Adi</h1>
 <h3 align="center">Passionate Full-Stack Developer from India</h3>
-<img align="right" alt="side-image" width="400" src="./assets/pfp.png"/>
+<img align="right" alt="side-image" width="400" src="https://i.pinimg.com/736x/4f/68/9f/4f689f8cf78e9311061cc51f9837f420.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditsuru-git&label=Profile%20views&color=0e75b6&style=flat" alt="aditsuru-git" /> </p>
 
 - 🌱 I’m currently learning **Full Stack, System Design & Rust**
