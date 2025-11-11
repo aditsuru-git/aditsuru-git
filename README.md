@@ -5,7 +5,7 @@
 <img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditsuru-git&label=Profile%20views&color=0e75b6&style=flat" alt="aditsuru-git" /> </p>
 
-- 🌱 I’m currently learning **Full Stack, System Design & Rust**
+- 🌱 I’m currently learning **Full Stack, Rust & Game Dev**
 
 - 🤝 I’m looking to collaborate with **passionate creators like me!**
 
@@ -15,14 +15,15 @@
 
   - 🤖 **AI Agents & Automation (LangGraph, Scalable Pipelines)**
   - 🚀 **Full-Stack Web Development & System Design**
-  - 🎮 **Game Development**
+  - 🎮 **Game Development (Unity & Roblox)**
   - 📋 **Product Management, Leadership & Startups**
 
 - 🎭 **Fun Fact:** My JavaScript runs smoother than my love life. 💔💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/yGRqaHtZvR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yGRqaHtZvR" height="30" width="40" /></a>
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true)](https://discord.com/users/1307684932738613368)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
