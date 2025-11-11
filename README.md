@@ -8,7 +8,7 @@ Currently experimenting with **Rust, game engines, and whatever breaks my brain 
 
 ˚🐾˖° Always down to collaborate on something **weird, ambitious, or beautifully over-engineered**
 
-Documenting the messy art of making cool things [blogs coming soon ฅ ฅ]()
+Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
 
 🐱ྀི I just love being in a cave, ask me about anything:
 
