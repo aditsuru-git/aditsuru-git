@@ -41,7 +41,7 @@ Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
     </td>
    <td>
      
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditsuru-git&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru-git&theme=react&hide_border=true)](https://git.io/streak-stats)
    </td>
 
   </tr>
