@@ -12,7 +12,7 @@ Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
 
 🐱ྀི I just love being in a cave, ask me about anything:
 
-𖹭 Full-Stack Web Development & System Design  
+　 𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
 　 𖹭 Product Design, Leadership & Startup Chaos  
 　 𖹭 Automating stuff with AI agents & LangChain
