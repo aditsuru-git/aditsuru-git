@@ -1,11 +1,10 @@
-<img src="https://i.imgur.com/Wvdnnr5.gif" alt="MasterHead" width="100%" />
+<img src="./assets/top_banner.png" alt="MasterHead" width="100%" />
 
-<h1 align="center">Adi Here!</h1>
-<h3 align="center">Running on caffeine and spite ☕</h3>
-<img align="right" alt="side-image" width="400" src="https://media.discordapp.net/attachments/1307699446875689082/1437854495190155435/Untitled_design.png?ex=6914c1d9&is=69137059&hm=13ed1f28d53a6b866573a28fec695c4e41ad6155f4f3689536d139ccc7cebb5b&=&format=webp&quality=lossless&width=375&height=505"/>
+<h1 align="center">Running on Caffeine and Spite ฅᨐฅ</h1>
+<img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru-git?name=aditsuru-git&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru-git" /> </p>
 
-Currently experimenting with **Rust, game engines, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ 
+Currently experimenting with **Rust, game engines, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
 
 ˚🐾˖° Always down to collaborate on something **weird, ambitious, or beautifully over-engineered**
 
@@ -13,10 +12,10 @@ Documenting the messy art of making cool things [blogs coming soon ฅ ฅ]()
 
 🐱ྀི I just love being in a cave, ask me about anything:
 
-　𖹭 Full-Stack Web Development & System Design  
-　𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
-　𖹭 Product Design, Leadership & Startup Chaos  
-　𖹭 Automating stuff with AI agents & LangChain  
+𖹭 Full-Stack Web Development & System Design  
+　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
+　 𖹭 Product Design, Leadership & Startup Chaos  
+　 𖹭 Automating stuff with AI agents & LangChain
 
 ᯓᡣ𐭩 **Fun Fact:** My code runs smoother than my love life 💔
 
