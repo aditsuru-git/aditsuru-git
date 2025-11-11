@@ -3,7 +3,7 @@
 <h1 align="center">Hi Traveler 👋, I'm Adi</h1>
 <h3 align="center">Passionate Full-Stack Developer from India</h3>
 <img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditsuru-git&label=Profile%20views&color=0e75b6&style=flat" alt="aditsuru-git" /> </p>
+<p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru-git?name=aditsuru-git&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru-git" /> </p>
 
 - 🌱 I’m currently learning **Full Stack, Rust & Game Dev**
 
