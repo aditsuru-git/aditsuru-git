@@ -36,7 +36,7 @@ Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
   <tr>
     <td>
       
-![aditsuru-git's Stats](https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![aditsuru-git's Stats](https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
@@ -48,6 +48,6 @@ Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
 <br />
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="38%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="38%" />
   <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify?background_color=000000&border_color=000000" alt="Spotify Now Playing" align="right" witdh="48%" />
 </div>
