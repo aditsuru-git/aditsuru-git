@@ -22,7 +22,7 @@ Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true)](https://discord.com/users/1307684932738613368)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/1307684932738613368)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
