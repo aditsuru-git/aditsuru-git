@@ -10,7 +10,7 @@ Currently experimenting with **Rust, game engines, and whatever breaks my brain 
 
 Documenting the messy art of making cool things [blogs coming soon]() ฅ ฅ
 
-🐱ྀི I just love living in a cave, ask me about anything:
+🐱ྀི I love the quiet of cave life, ask me about anything:
 
 　 𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
