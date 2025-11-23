@@ -2,7 +2,7 @@
 
 <h1 align="center">Running on Caffeine and Spite ฅᨐฅ</h1>
 <img align="right" alt="side-image" width="400" src="./assets/banner.png"/>
-<p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru-git?name=aditsuru-git&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru-git" /> </p>
+<p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru?name=aditsuru&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru" /> </p>
 
 Currently experimenting with **Rust, game engines, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
 
@@ -12,7 +12,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 🐱ྀི I love the quiet of cave life, ask me about anything:
 
-　 𖹭 Full-Stack Web Development & System Design  
+𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
 　 𖹭 Product Design, Leadership & Startup Chaos  
 　 𖹭 Automating stuff with AI agents & LangChain
@@ -29,6 +29,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 <p align="left">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Luau](https://img.shields.io/badge/luau-%2300AEEF.svg?style=for-the-badge&logo=luau&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![ROBLOXSTUDIO](https://img.shields.io/badge/robloxstudio-%2300AEEF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
 </p>
 
 <h1></h1>
@@ -36,11 +37,11 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
   <tr>
     <td>
       
-![aditsuru-git's Stats](https://github-readme-stats.vercel.app/api?username=aditsuru-git&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)
+![aditsuru's Stats](https://github-readme-stats.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
-[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru-git&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
    </td>
 
   </tr>
@@ -48,6 +49,6 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 <br />
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru-git&theme=blue_navy&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="38%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="38%" />
   <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify?background_color=000000&border_color=000000" alt="Spotify Now Playing" align="right" witdh="48%" />
 </div>
