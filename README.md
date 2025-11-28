@@ -49,6 +49,6 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 <br />
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="38%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="48%" />
   <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify?background_color=000000&border_color=000000" alt="Spotify Now Playing" align="right" witdh="48%" />
 </div>
