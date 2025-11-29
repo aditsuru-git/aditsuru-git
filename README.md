@@ -37,7 +37,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
   <tr>
     <td>
       
-![aditsuru's Stats](https://github-readme-stats-apuh9g3bx-aditi-chandras-projects.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)
+[![aditsuru's Stats](https://github-readme-stats-apuh9g3bx-aditi-chandras-projects.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-apuh9g3bx-aditi-chandras-projects.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
