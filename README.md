@@ -39,9 +39,11 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 An AI tool that helps you research about market, topics, and anything. [Get demo here](https://github.com/homies-tech-innovation/research-engine-server)
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Server"  />
+  
+  [![Discord Presence](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/research-engine-server)
   &nbsp; 
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Client" />
+  [![Discord Presence](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/research-engine-client)
+  
 </p>
 
 Always stalking new ideas to add to the hoard... 🧶
@@ -58,6 +60,6 @@ Always stalking new ideas to add to the hoard... 🧶
   <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="48%" />
   &nbsp;
   
-<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top" width="48%"/>
+<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top" width="50%"/>
 </p>
 
