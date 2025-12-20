@@ -38,12 +38,18 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 > [!NOTE]
 > AI Powered Deep Research Tool. [Get demo here.](https://github.com/homies-tech-innovation/research-engine-server)
 
+<div align="left">
 <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Server" />
-
 <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Client" />
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1></h1>
-
 <table>
   <tr>
     <td>
@@ -57,7 +63,6 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
   </tr>
 </table>
-<br />
 
 <div align="center">
   <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="42%" />
