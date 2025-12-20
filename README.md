@@ -51,13 +51,13 @@ Always stalking new ideas to add to the hoard... 🧶
 <p align="left">
   <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" width="46%" align="top" />
+  <img src="https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" width="50%" align="top" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="46%" />
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="48%" />
   &nbsp;
   
-<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top" width="46%"/>
+<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top" width="48%"/>
 </p>
 
