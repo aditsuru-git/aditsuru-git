@@ -32,39 +32,32 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 </p>
 
-<h3 align="left">Projects</h3>
-<h4>Research Engine</h4>
+<h2 align="left">Projects</h3>
 
-> [!NOTE]
-> AI Powered Deep Research Tool. [Get demo here.](https://github.com/homies-tech-innovation/research-engine-server)
+<h3 align="left">Research Engine</h3>
 
-<div align="left">
-<img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Server" />
-<img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Client" />
-</div>
+An AI tool that helps you research about market, topics, and anything. [Get demo here](https://github.com/homies-tech-innovation/research-engine-server)
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="left">
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Server" />
+  &nbsp; 
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Client" />
+</p>
 
-<h1></h1>
-<table>
-  <tr>
-    <td>
-      
-[![aditsuru's Stats](https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)
-    </td>
-   <td>
-     
-[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
-   </td>
+Always stalking new ideas to add to the hoard... 🧶
 
-  </tr>
-</table>
+<h2></h2>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="42%" />
-  <img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify Now Playing" align="right" width="48%" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="46%" />
+  &nbsp;
+  
+<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top"/>
+</p>
+
