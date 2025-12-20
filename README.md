@@ -39,7 +39,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 An AI tool that helps you research about market, topics, and anything. [Get demo here](https://github.com/homies-tech-innovation/research-engine-server)
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Server" />
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Server"  />
   &nbsp; 
   <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true" alt="Research Engine Client" />
 </p>
@@ -49,15 +49,15 @@ Always stalking new ideas to add to the hoard... 🧶
 <h2></h2>
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats-ten-jet.vercel.app/?user=aditsuru&theme=blue-navy&hide_border=true" alt="Streak" width="46%" align="top" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=aditsuru&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Stats" width="46%" />
   &nbsp;
   
-<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top"/>
+<img src="https://aditi-spotify-two-bay.vercel.app/api/spotify" alt="Spotify" align="top" width="46%"/>
 </p>
 
