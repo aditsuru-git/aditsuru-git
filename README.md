@@ -12,27 +12,27 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 🐱ྀི I love the quiet of cave life, ask me about anything:
 
-𖹭 Full-Stack Web Development & System Design  
+　 𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
 　 𖹭 Product Design, Leadership & Startup Chaos  
 　 𖹭 Automating stuff with AI agents & LangChain
 
 ᯓᡣ𐭩 **Fun Fact:** My code runs smoother than my love life 💔
 
-<h3 align="left">I'm active on Discord</h3>
+<h4 align="left">I'm active on Discord</h4>
 <p align="left">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/1307684932738613368)
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 <p align="left">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Luau](https://img.shields.io/badge/luau-%2300AEEF.svg?style=for-the-badge&logo=luau&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![ROBLOXSTUDIO](https://img.shields.io/badge/robloxstudio-%2300AEEF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </p>
 
-<h2 align="left">Projects</h3>
+<h2 align="left">Projects</h2>
 
 <h3 align="left">Research Engine</h3>
 
@@ -40,9 +40,19 @@ An AI tool that helps you research about market, topics, and anything. [Get demo
 
 <p align="left">
   
-  [![Discord Presence](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/research-engine-server)
+  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-server&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/research-engine-server)
   &nbsp; 
-  [![Discord Presence](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/research-engine-client)
+  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=research-engine-client&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/research-engine-client)
+  
+</p>
+
+<h3 align="left">Aethel</h3>
+
+Experience a live, AI-powered writing space for all your stories and docs. [Get demo here](https://github.com/homies-tech-innovation/aethel)
+
+<p align="left">
+  
+  [![GitHub Repo](https://github-readme-stats-ten-rho-72.vercel.app/api/pin/?username=homies-tech-innovation&repo=aethel&theme=github_dark_dimmed&hide_border=true)](https://github.com/homies-tech-innovation/aethel)
   
 </p>
 
