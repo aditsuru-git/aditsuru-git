@@ -4,7 +4,7 @@
 <img align="right" alt="side-image" width="400" src="./assets/banner.jpeg"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@aditsuru?name=aditsuru&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="aditsuru" /> </p>
 
-Currently experimenting with **Rust, game engines, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
+Currently experimenting with **Rust, Mobile Dev, and whatever breaks my brain in a good way** ₍^. .^₎Ⳋ
 
 ˚🐾˖° Always down to collaborate on something **weird, ambitious, or beautifully over-engineered**
 
@@ -19,7 +19,7 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 ᯓᡣ𐭩 **Fun Fact:** My code runs smoother than my love life 💔
 
-<h4 align="left">I'm active on Discord</h4>
+<h4 align="left">I'm really active on Discord</h4>
 <p align="left">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/1307684932738613368)
