@@ -14,12 +14,12 @@ Documenting the messy art of making cool things — now live at [aditsuru.com](h
 
 　 𖹭 Full-Stack Web Development & System Design  
 　 𖹭 Game Development cuz it's love (Unity & Roblox; Indie kit)  
-　 𖹭 Product Design, Leadership & Startup Chaos  
-　 𖹭 Automating stuff with AI agents & LangChain
+　 𖹭 Leadership, Management & Startup Chaos
+　 𖹭 Building Complex AI Agents with LangGraph
+　 𖹭 Mobile Dev with Kotlin
 
 ᯓᡣ𐭩 **Fun Fact:** My code runs smoother than my love life 💔
 
-<h4 align="left">I'm really active on Discord</h4>
 <p align="left">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1307684932738613368?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/1307684932738613368)
